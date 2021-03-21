@@ -132,3 +132,5 @@ dmypy.json
 # .DS_Store added here
 .DS_Store
 
+# Adding config.py file.
+config.py
