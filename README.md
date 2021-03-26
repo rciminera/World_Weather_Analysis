@@ -25,14 +25,19 @@ Latitude and Temperature are highly correlated:
 
     weather_data/Fig1.png
 
-Map of locations with suitable current temperature ranges as selected by the customer:
+Map of potential vacation locations based on a temperature range selected by the customer:
 
     WeatherPy_vacation_map.png
 
-4 City Itinerary Map
+Itinerary Maps:
 
-    TBD. png
+Directions to 4 vacation locations
+   
+   WeatherPy_travel_map.png
+   
+Hotel and weather information
 
+   WeatherPy_travel_map_markers.png
 
 
 
