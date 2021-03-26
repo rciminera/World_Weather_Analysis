@@ -31,11 +31,11 @@ Latitude and Temperature are highly correlated:
 
 ### Vacation Planning
 
-Map of potential vacation locations based on a temperature range selected by the customer:
+Map of potential vacation locations based on a temperature range of 65 to 75 degrees F as selected by the customer:
 
 ![GitHubLogo](https://github.com/rciminera/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png)
 
-Directions to 4 vacation locations
+Directions to 4 vacation locations for Spring Time in the Tri State area plus Rhode Island:
    
 ![GitHubLogo](https://github.com/rciminera/World_Weather_Analysis/blob/main/Vacation%20Itinerary/WeatherPy_travel_map.png)
    
