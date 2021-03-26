@@ -37,7 +37,7 @@ Directions to 4 vacation locations
    
 Hotel and weather information
 
-   WeatherPy_travel_map_markers.png
+   https://github.com/rciminera/World_Weather_Analysis/blob/main/Vacation%20Itinerary/WeatherPy_travel_map_markers.png
 
 
 
