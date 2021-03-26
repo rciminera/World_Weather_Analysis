@@ -21,23 +21,25 @@ Using Jupyter Notebook and API calls from OpenWeatherMap and Google we:
 
 Following are screen shots with key conclusions from the analysis.
 
+### Weather Analysis 
+
 Latitude and Temperature are highly correlated:
 
     weather_data/Fig1.png
+
+### Vacation Planning
 
 Map of potential vacation locations based on a temperature range selected by the customer:
 
 ![GitHubLogo](https://github.com/rciminera/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png)
 
-Itinerary Maps:
-
 Directions to 4 vacation locations
    
-   WeatherPy_travel_map.png
+![GitHubLogo](https://github.com/rciminera/World_Weather_Analysis/blob/main/Vacation%20Itinerary/WeatherPy_travel_map.png)
    
-Hotel and weather information
+Hotel and weather information:
 
-   https://github.com/rciminera/World_Weather_Analysis/blob/main/Vacation%20Itinerary/WeatherPy_travel_map_markers.png
+![GitHubLogo](https://github.com/rciminera/World_Weather_Analysis/blob/main/Vacation%20Itinerary/WeatherPy_travel_map_markers.png)
 
 
 
