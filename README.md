@@ -25,7 +25,7 @@ Following are screen shots with key conclusions from the analysis.
 
 Latitude and Temperature are highly correlated:
 
-    weather_data/Fig1.png
+![GitHubLogo](https://github.com/rciminera/World_Weather_Analysis/blob/main/Module/weather_data/Fig1.png)
 
 ### Vacation Planning
 
