@@ -27,7 +27,7 @@ Latitude and Temperature are highly correlated:
 
 Map of potential vacation locations based on a temperature range selected by the customer:
 
-    WeatherPy_vacation_map.png
+    [WeatherPy_vacation_map] (WeatherPy_vacation_map.png)
 
 Itinerary Maps:
 
